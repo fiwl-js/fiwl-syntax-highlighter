@@ -3,6 +3,8 @@
     "displayName": "fiwl-js",
     "description": "Syntax highlighter for FIWL js",
     "version": "0.0.1",
+    "publisher": "fiwl-js",
+    "repository": "https://github.com/fiwl-js/vscode-syntax",
     "engines": {
         "vscode": "^1.51.0"
     },
